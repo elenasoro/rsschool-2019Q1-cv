@@ -7,6 +7,7 @@
   
 ## Summary:
  My top goal is to become front-end developer. I want to write great code, work on creative projects with talented collegues. I have a great desire to learn and I am ready to spend all my effort and time to become a highly skilled professional.
+ 
 
 ## Skills:
 
