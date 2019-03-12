@@ -25,12 +25,14 @@ body{
   background-image: url('images/bg2.jpg');
   background-position: center;
   background-size: cover;
+
 }
 
 .main__container{
   margin: 0 auto;
   background-color: #eaeff7;
   max-width: 1024px;
+  padding-bottom: 60px;
 }
 
 .introduction{
@@ -89,7 +91,7 @@ body{
 
 }
 
-.summary{
+.summary, .english{
   margin: 0 auto;
   width: 80%;
   background-color: white;
@@ -111,6 +113,10 @@ body{
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
   font-family: "Maven";
   display: flex;
+}
+
+.education{
+  margin-bottom: 60px;
 }
 .skills__title, .projects__title, .education__title{
   width: 30%;
@@ -187,4 +193,16 @@ body{
 .projects__item a{
   text-decoration: none;
   color: #6b97c6;
+}
+.english{
+   padding-top: 30px;
+ }
+.english__title{
+  text-align: left;
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+.english__description{
+  text-align: left;
 }
